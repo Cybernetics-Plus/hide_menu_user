@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus Hide Menu User',
+    'name': 'Hide Menu for User',
     'version': '15.0.1.0.1',
     'summary': """ 
             Cybernetics Plus Tools Hide Menu for User
